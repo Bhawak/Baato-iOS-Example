@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+	<wpt lat="27.734013142530806" lon="85.33678859788336">
+		<ele>1337.1932507222218</ele>
+		<time>2021-03-24T08:54:36Z</time>
+		<name>2:39:36 PM</name>
+		<desc>Mar 24, 2021 at 2:39:36 PM</desc>
+	</wpt>
+	<wpt lat="27.734092149847637" lon="85.33666986548299">
+		<time>2021-03-24T08:54:46Z</time>
+		<name>2:39:46 PM</name>
+		<desc>Mar 24, 2021 at 2:39:46 PM</desc>
+	</wpt>
+	<wpt lat="27.734288128647115" lon="85.33680674358206">
+		<time>2021-03-24T08:54:52Z</time>
+		<name>2:39:52 PM</name>
+		<desc>Mar 24, 2021 at 2:39:52 PM</desc>
+	</wpt>
+	<wpt lat="27.734480160316988" lon="85.3370039223654">
+		<time>2021-03-24T08:54:55Z</time>
+		<name>2:39:55 PM</name>
+		<desc>Mar 24, 2021 at 2:39:55 PM</desc>
+	</wpt>
+	<wpt lat="27.734620356975768" lon="85.33725840201333">
+		<time>2021-03-24T08:54:59Z</time>
+		<name>2:39:59 PM</name>
+		<desc>Mar 24, 2021 at 2:39:59 PM</desc>
+	</wpt>
+	<wpt lat="27.734892161873677" lon="85.33748267043472">
+		<time>2021-03-24T08:55:19Z</time>
+		<name>2:40:19 PM</name>
+		<desc>Mar 24, 2021 at 2:40:19 PM</desc>
+	</wpt>
+	<wpt lat="27.735139006382376" lon="85.33762616916908">
+		<time>2021-03-24T08:55:22Z</time>
+		<name>2:40:22 PM</name>
+		<desc>Mar 24, 2021 at 2:40:22 PM</desc>
+	</wpt>
+	<wpt lat="27.735403352169584" lon="85.33775425542521">
+		<time>2021-03-24T08:55:26Z</time>
+		<name>2:40:26 PM</name>
+		<desc>Mar 24, 2021 at 2:40:26 PM</desc>
+	</wpt>
+	<wpt lat="27.73570427935925" lon="85.33778343662003">
+		<time>2021-03-24T08:55:30Z</time>
+		<name>2:40:30 PM</name>
+		<desc>Mar 24, 2021 at 2:40:30 PM</desc>
+	</wpt>
+	<wpt lat="27.73602915716439" lon="85.33779775827497">
+		<time>2021-03-24T08:55:32Z</time>
+		<name>2:40:32 PM</name>
+		<desc>Mar 24, 2021 at 2:40:32 PM</desc>
+	</wpt>
+	<wpt lat="27.73618542919126" lon="85.33804813976924">
+		<time>2021-03-24T08:55:39Z</time>
+		<name>2:40:39 PM</name>
+		<desc>Mar 24, 2021 at 2:40:39 PM</desc>
+	</wpt>
+	<wpt lat="27.736285130350222" lon="85.33828807854141">
+		<time>2021-03-24T08:55:43Z</time>
+		<name>2:40:43 PM</name>
+		<desc>Mar 24, 2021 at 2:40:43 PM</desc>
+	</wpt>
+	<wpt lat="27.73639066666653" lon="85.33856129184889">
+		<time>2021-03-24T08:55:45Z</time>
+		<name>2:40:45 PM</name>
+		<desc>Mar 24, 2021 at 2:40:45 PM</desc>
+	</wpt>
+	<wpt lat="27.73637036124417" lon="85.33882790580697">
+		<time>2021-03-24T08:55:49Z</time>
+		<name>2:40:49 PM</name>
+		<desc>Mar 24, 2021 at 2:40:49 PM</desc>
+	</wpt>
+	<wpt lat="27.7361372076548" lon="85.3388310810976">
+		<time>2021-03-24T08:55:52Z</time>
+		<name>2:40:52 PM</name>
+		<desc>Mar 24, 2021 at 2:40:52 PM</desc>
+	</wpt>
+	<wpt lat="27.735873439133126" lon="85.33880945371261">
+		<time>2021-03-24T08:55:55Z</time>
+		<name>2:40:55 PM</name>
+		<desc>Mar 24, 2021 at 2:40:55 PM</desc>
+	</wpt>
+	<wpt lat="27.735677244360346" lon="85.33877218070214">
+		<time>2021-03-24T08:55:58Z</time>
+		<name>2:40:58 PM</name>
+		<desc>Mar 24, 2021 at 2:40:58 PM</desc>
+	</wpt>
+	<wpt lat="27.735453212761186" lon="85.33875642430263">
+		<time>2021-03-24T08:56:02Z</time>
+		<name>2:41:02 PM</name>
+		<desc>Mar 24, 2021 at 2:41:02 PM</desc>
+	</wpt>
+	<trk>
+	</trk>
+</gpx>

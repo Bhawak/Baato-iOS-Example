@@ -1,0 +1,144 @@
+PODS:
+  - Alamofire (4.9.1)
+  - BaatoSwift (0.2.1):
+    - Alamofire (~> 4.0)
+    - geos
+    - GEOSwift
+  - geos (6.0.2)
+  - GEOSwift (8.0.2):
+    - geos (~> 6.0)
+  - Mapbox-iOS-SDK (5.5.0)
+  - MapboxCoreNavigation (0.37.2):
+    - MapboxDirections.swift (~> 0.30.0)
+    - MapboxMobileEvents (~> 0.9.5)
+    - MapboxNavigationNative (~> 6.2.1)
+    - Turf (~> 0.3.0)
+  - MapboxDirections.swift (0.30.0):
+    - Polyline (~> 4.2)
+  - MapboxMobileEvents (0.9.5)
+  - MapboxNavigation (0.37.2):
+    - Mapbox-iOS-SDK (= 5.5.0)
+    - MapboxCoreNavigation (= 0.37.2)
+    - MapboxSpeech (~> 0.1.0)
+    - Solar (~> 2.1)
+  - MapboxNavigationNative (6.2.1)
+  - MapboxSpeech (0.1.1)
+  - MaterialComponents/AnimationTiming (112.1.0)
+  - MaterialComponents/Availability (112.1.0)
+  - MaterialComponents/Buttons (112.1.0):
+    - MaterialComponents/Elevation
+    - MaterialComponents/Ink
+    - MaterialComponents/private/Math
+    - MaterialComponents/Ripple
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/ShapeLibrary
+    - MaterialComponents/Shapes
+    - MaterialComponents/Typography
+    - MDFInternationalization
+    - MDFTextAccessibility
+  - MaterialComponents/Elevation (112.1.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/Ink (112.1.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/OverlayWindow (112.1.0):
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Application (112.1.0)
+  - MaterialComponents/private/Color (112.1.0):
+    - MaterialComponents/Availability
+  - MaterialComponents/private/KeyboardWatcher (112.1.0):
+    - MaterialComponents/private/Application
+  - MaterialComponents/private/Math (112.1.0)
+  - MaterialComponents/private/Overlay (112.1.0)
+  - MaterialComponents/Ripple (112.1.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+  - MaterialComponents/ShadowElevations (112.1.0)
+  - MaterialComponents/ShadowLayer (112.1.0):
+    - MaterialComponents/ShadowElevations
+  - MaterialComponents/ShapeLibrary (112.1.0):
+    - MaterialComponents/private/Math
+    - MaterialComponents/Shapes
+  - MaterialComponents/Shapes (112.1.0):
+    - MaterialComponents/private/Color
+    - MaterialComponents/private/Math
+    - MaterialComponents/ShadowLayer
+  - MaterialComponents/Snackbar (112.1.0):
+    - MaterialComponents/AnimationTiming
+    - MaterialComponents/Availability
+    - MaterialComponents/Buttons
+    - MaterialComponents/Elevation
+    - MaterialComponents/OverlayWindow
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/KeyboardWatcher
+    - MaterialComponents/private/Math
+    - MaterialComponents/private/Overlay
+    - MaterialComponents/ShadowElevations
+    - MaterialComponents/ShadowLayer
+    - MaterialComponents/Typography
+  - MaterialComponents/Typography (112.1.0):
+    - MaterialComponents/private/Application
+    - MaterialComponents/private/Math
+    - MDFTextAccessibility
+  - MDFInternationalization (2.0.0)
+  - MDFTextAccessibility (2.0.0)
+  - Polyline (4.2.1)
+  - Solar (2.1.0)
+  - Turf (0.3.0)
+
+DEPENDENCIES:
+  - BaatoSwift (~> 0.2.1)
+  - Mapbox-iOS-SDK (~> 5.2)
+  - MapboxNavigation (~> 0.37.0)
+  - MaterialComponents/Snackbar
+
+SPEC REPOS:
+  https://github.com/baato/BaatoPodSpec.git:
+    - BaatoSwift
+  https://github.com/CocoaPods/Specs.git:
+    - Alamofire
+    - geos
+    - GEOSwift
+    - Mapbox-iOS-SDK
+    - MapboxCoreNavigation
+    - MapboxDirections.swift
+    - MapboxMobileEvents
+    - MapboxNavigation
+    - MapboxNavigationNative
+    - MapboxSpeech
+    - MaterialComponents
+    - MDFInternationalization
+    - MDFTextAccessibility
+    - Polyline
+    - Solar
+    - Turf
+
+SPEC CHECKSUMS:
+  Alamofire: 85e8a02c69d6020a0d734f6054870d7ecb75cf18
+  BaatoSwift: 027ead7ce8a7ca128988b5c029d2d7933f5492e8
+  geos: 73e5122ba8c6857812419873df3aa9a1920140a9
+  GEOSwift: 259844a41c1680d7dc8d9a393741a08f84c0e23a
+  Mapbox-iOS-SDK: 7fa66a27e586acb14c7f32ec5a487343e3994451
+  MapboxCoreNavigation: 2210a96f0cdc846f9bb25f777b66960b84d95cbf
+  MapboxDirections.swift: 6be6f756176b2c16f308093cc4724fa82ce33b12
+  MapboxMobileEvents: f6c21b2e59066c5c7093585de7c15adae3b63da0
+  MapboxNavigation: 51c6eb1cbea237f8f9f9cc2e137a56b296ea0b3d
+  MapboxNavigationNative: 11dc22140f4698d3f26989f2b6379dc81ef0d4c1
+  MapboxSpeech: 59b3984d3f433a443d24acf53097f918c5cc70f9
+  MaterialComponents: ba54523b921faa5c2adaaa692048c6b95a09263d
+  MDFInternationalization: 010097556d6b09d2c4ea38e0820ea6d37be6a314
+  MDFTextAccessibility: 85c09a1bd9c321f494348e632a25063bcda35a53
+  Polyline: 0e9890790292741c8186201a536b6bb6a78d02dd
+  Solar: 2dc6e7cc39186cb0c8228fa08df76fb50c7d8f24
+  Turf: c6bdf62d6a70c647874f295dd1cf4eefc0c3e9e6
+
+PODFILE CHECKSUM: d7a86670909321c5f0f8c6497e8adfb783b9df23
+
+COCOAPODS: 1.10.0

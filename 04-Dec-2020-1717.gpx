@@ -1,0 +1,136 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+	<wpt lat="27.724427968502315" lon="85.34078119752317">
+		<ele>1314.0897590545937</ele>
+		<time>2020-12-04T11:30:06Z</time>
+		<name>5:15:06 PM</name>
+		<desc>Dec 4, 2020 at 5:15:06 PM</desc>
+	</wpt>
+	<wpt lat="27.724322894681276" lon="85.34020925241266">
+		<time>2020-12-04T11:30:12Z</time>
+		<name>5:15:12 PM</name>
+		<desc>Dec 4, 2020 at 5:15:12 PM</desc>
+	</wpt>
+	<wpt lat="27.724212575004128" lon="85.3395549590445">
+		<time>2020-12-04T11:30:15Z</time>
+		<name>5:15:15 PM</name>
+		<desc>Dec 4, 2020 at 5:15:15 PM</desc>
+	</wpt>
+	<wpt lat="27.7248089894292" lon="85.33974968921366">
+		<time>2020-12-04T11:30:19Z</time>
+		<name>5:15:19 PM</name>
+		<desc>Dec 4, 2020 at 5:15:19 PM</desc>
+	</wpt>
+	<wpt lat="27.724939993316735" lon="85.33940306951267">
+		<time>2020-12-04T11:30:23Z</time>
+		<name>5:15:23 PM</name>
+		<desc>Dec 4, 2020 at 5:15:23 PM</desc>
+	</wpt>
+	<wpt lat="27.724860701508852" lon="85.33893571710686">
+		<time>2020-12-04T11:30:28Z</time>
+		<name>5:15:28 PM</name>
+		<desc>Dec 4, 2020 at 5:15:28 PM</desc>
+	</wpt>
+	<wpt lat="27.724988257867167" lon="85.33852288914842">
+		<time>2020-12-04T11:30:32Z</time>
+		<name>5:15:32 PM</name>
+		<desc>Dec 4, 2020 at 5:15:32 PM</desc>
+	</wpt>
+	<wpt lat="27.725364806051836" lon="85.33804571173563">
+		<time>2020-12-04T11:30:41Z</time>
+		<name>5:15:41 PM</name>
+		<desc>Dec 4, 2020 at 5:15:41 PM</desc>
+	</wpt>
+	<wpt lat="27.725603796720804" lon="85.33735313133134">
+		<time>2020-12-04T11:30:46Z</time>
+		<name>5:15:46 PM</name>
+		<desc>Dec 4, 2020 at 5:15:46 PM</desc>
+	</wpt>
+	<wpt lat="27.725105032991298" lon="85.33724748347302">
+		<time>2020-12-04T11:30:51Z</time>
+		<name>5:15:51 PM</name>
+		<desc>Dec 4, 2020 at 5:15:51 PM</desc>
+	</wpt>
+	<wpt lat="27.724729356970194" lon="85.33725483303863">
+		<time>2020-12-04T11:30:55Z</time>
+		<name>5:15:55 PM</name>
+		<desc>Dec 4, 2020 at 5:15:55 PM</desc>
+	</wpt>
+	<wpt lat="27.724374665715207" lon="85.33714071159082">
+		<time>2020-12-04T11:31:00Z</time>
+		<name>5:16:00 PM</name>
+		<desc>Dec 4, 2020 at 5:16:00 PM</desc>
+	</wpt>
+	<wpt lat="27.724055891577397" lon="85.33704434236824">
+		<time>2020-12-04T11:31:04Z</time>
+		<name>5:16:04 PM</name>
+		<desc>Dec 4, 2020 at 5:16:04 PM</desc>
+	</wpt>
+	<wpt lat="27.723604667436735" lon="85.33681356344037">
+		<time>2020-12-04T11:31:10Z</time>
+		<name>5:16:10 PM</name>
+		<desc>Dec 4, 2020 at 5:16:10 PM</desc>
+	</wpt>
+	<wpt lat="27.723171400708363" lon="85.33648641528984">
+		<time>2020-12-04T11:31:15Z</time>
+		<name>5:16:15 PM</name>
+		<desc>Dec 4, 2020 at 5:16:15 PM</desc>
+	</wpt>
+	<wpt lat="27.722776295869537" lon="85.33616433920375">
+		<time>2020-12-04T11:31:19Z</time>
+		<name>5:16:19 PM</name>
+		<desc>Dec 4, 2020 at 5:16:19 PM</desc>
+	</wpt>
+	<wpt lat="27.722520374925793" lon="85.33597160075838">
+		<time>2020-12-04T11:31:23Z</time>
+		<name>5:16:23 PM</name>
+		<desc>Dec 4, 2020 at 5:16:23 PM</desc>
+	</wpt>
+	<wpt lat="27.722156696761832" lon="85.33572053357317">
+		<time>2020-12-04T11:31:27Z</time>
+		<name>5:16:27 PM</name>
+		<desc>Dec 4, 2020 at 5:16:27 PM</desc>
+	</wpt>
+	<wpt lat="27.72192995852715" lon="85.33556583561052">
+		<time>2020-12-04T11:31:33Z</time>
+		<name>5:16:33 PM</name>
+		<desc>Dec 4, 2020 at 5:16:33 PM</desc>
+	</wpt>
+	<wpt lat="27.721573702048687" lon="85.33525815996175">
+		<time>2020-12-04T11:31:45Z</time>
+		<name>5:16:45 PM</name>
+		<desc>Dec 4, 2020 at 5:16:45 PM</desc>
+	</wpt>
+	<wpt lat="27.721079204045836" lon="85.33498168000642">
+		<time>2020-12-04T11:31:51Z</time>
+		<name>5:16:51 PM</name>
+		<desc>Dec 4, 2020 at 5:16:51 PM</desc>
+	</wpt>
+	<wpt lat="27.720525113466156" lon="85.33465619533656">
+		<time>2020-12-04T11:31:55Z</time>
+		<name>5:16:55 PM</name>
+		<desc>Dec 4, 2020 at 5:16:55 PM</desc>
+	</wpt>
+	<wpt lat="27.719914027447548" lon="85.33433786417591">
+		<time>2020-12-04T11:32:00Z</time>
+		<name>5:17:00 PM</name>
+		<desc>Dec 4, 2020 at 5:17:00 PM</desc>
+	</wpt>
+	<wpt lat="27.719416923859676" lon="85.33409106810758">
+		<time>2020-12-04T11:32:04Z</time>
+		<name>5:17:04 PM</name>
+		<desc>Dec 4, 2020 at 5:17:04 PM</desc>
+	</wpt>
+	<wpt lat="27.718932483151097" lon="85.33371908562776">
+		<time>2020-12-04T11:32:09Z</time>
+		<name>5:17:09 PM</name>
+		<desc>Dec 4, 2020 at 5:17:09 PM</desc>
+	</wpt>
+	<wpt lat="27.718489202185634" lon="85.33348301982325">
+		<time>2020-12-04T11:32:13Z</time>
+		<name>5:17:13 PM</name>
+		<desc>Dec 4, 2020 at 5:17:13 PM</desc>
+	</wpt>
+	<trk>
+	</trk>
+</gpx>

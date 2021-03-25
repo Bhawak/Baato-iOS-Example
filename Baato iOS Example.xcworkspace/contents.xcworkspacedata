@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:04-Dec-2020-1717.gpx">
+   </FileRef>
+   <FileRef
+      location = "group:24-Mar-2021-1441.gpx">
+   </FileRef>
+   <FileRef
+      location = "group:04-Dec-2020-1350.gpx">
+   </FileRef>
+   <FileRef
+      location = "group:testgeojson.gpx">
+   </FileRef>
+   <FileRef
+      location = "group:Baato iOS Example.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>

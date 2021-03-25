@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gpx xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.topografix.com/GPX/1/1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd" version="1.1" creator="Open GPX Tracker for iOS">
+    <wpt lat="27.72414909043757" lon="85.34026343711093">
+        <time>2020-12-04T07:39:43Z</time>
+        <name>1:24:43 PM</name>
+        <desc>Dec 4, 2020 at 1:24:43 PM</desc>
+    </wpt>
+    <wpt lat="27.724181309567914" lon="85.33954761617741">
+        <time>2020-12-04T07:39:48Z</time>
+        <name>1:24:48 PM</name>
+        <desc>Dec 4, 2020 at 1:24:48 PM</desc>
+    </wpt>
+    <wpt lat="27.7249724652252" lon="85.34000460920274">
+        <time>2020-12-04T07:39:53Z</time>
+        <name>1:24:53 PM</name>
+        <desc>Dec 4, 2020 at 1:24:53 PM</desc>
+    </wpt>
+    <wpt lat="27.723737400711798" lon="85.33924834640857">
+        <time>2020-12-04T07:40:00Z</time>
+        <name>1:25:00 PM</name>
+        <desc>Dec 4, 2020 at 1:25:00 PM</desc>
+    </wpt>
+    <wpt lat="27.72323621112128" lon="85.33896525338399">
+        <time>2020-12-04T07:40:06Z</time>
+        <name>1:25:06 PM</name>
+        <desc>Dec 4, 2020 at 1:25:06 PM</desc>
+    </wpt>
+    <trk>
+    </trk>
+    <trk>
+    </trk>
+</gpx>
