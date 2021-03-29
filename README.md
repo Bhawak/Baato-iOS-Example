@@ -60,7 +60,7 @@ end
       The xcode error pointer will auto point to assertion which is inside: Pods/MapboxDirections.swift/Sources/MapboxDirections/MBDirections.swift
      <pre><code class="language-swift">
        @objc public init(accessToken: String?, host: String?) {
-    //Only add this either remove or comment mapbox assertion
+        //Only add this
         self.accessToken = "pk.xxx"
         apiEndpoint = URL(string: "https://api.baato.io")!
     }
