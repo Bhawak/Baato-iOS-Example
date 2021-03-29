@@ -19,17 +19,11 @@
 		FE19F5D32606FEF6008F4FEF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = FE19F5D12606FEF6008F4FEF /* LaunchScreen.storyboard */; };
 		FE19F5DE2606FEF6008F4FEF /* Baato_iOS_ExampleTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE19F5DD2606FEF6008F4FEF /* Baato_iOS_ExampleTests.swift */; };
 		FE19F5E92606FEF6008F4FEF /* Baato_iOS_ExampleUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE19F5E82606FEF6008F4FEF /* Baato_iOS_ExampleUITests.swift */; };
-		FE349E242607398700D4257E /* NavResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE349E152607398700D4257E /* NavResponse.swift */; };
-		FE349E252607398700D4257E /* SearchResult.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE349E162607398700D4257E /* SearchResult.swift */; };
-		FE349E262607398700D4257E /* Place.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE349E172607398700D4257E /* Place.swift */; };
-		FE349E272607398700D4257E /* ResponseType.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE349E182607398700D4257E /* ResponseType.swift */; };
 		FE62A5C626085EAA009C8DF8 /* RouteInfo.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE62A5C226085EAA009C8DF8 /* RouteInfo.xib */; };
 		FE62A5C726085EAA009C8DF8 /* RouteInfo.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5C326085EAA009C8DF8 /* RouteInfo.swift */; };
 		FE62A5CF2608623D009C8DF8 /* PlaceDetail.xib in Resources */ = {isa = PBXBuildFile; fileRef = FE62A5CD2608623D009C8DF8 /* PlaceDetail.xib */; };
 		FE62A5D02608623D009C8DF8 /* PlaceDetail.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5CE2608623D009C8DF8 /* PlaceDetail.swift */; };
 		FE62A5DB2608920C009C8DF8 /* ResType.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5DA2608920C009C8DF8 /* ResType.swift */; };
-		FE62A5E026089277009C8DF8 /* RouteResDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5DF26089277009C8DF8 /* RouteResDecoder.swift */; };
-		FE62A5E826089B70009C8DF8 /* PolylineDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5E726089B70009C8DF8 /* PolylineDecoder.swift */; };
 		FE7D7DEB26119A2D00A726E4 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7D7DEA26119A2D00A726E4 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
@@ -75,17 +69,11 @@
 		FE19F5E42606FEF6008F4FEF /* Baato iOS ExampleUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Baato iOS ExampleUITests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE19F5E82606FEF6008F4FEF /* Baato_iOS_ExampleUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Baato_iOS_ExampleUITests.swift; sourceTree = "<group>"; };
 		FE19F5EA2606FEF6008F4FEF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		FE349E152607398700D4257E /* NavResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = NavResponse.swift; sourceTree = "<group>"; };
-		FE349E162607398700D4257E /* SearchResult.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchResult.swift; sourceTree = "<group>"; };
-		FE349E172607398700D4257E /* Place.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Place.swift; sourceTree = "<group>"; };
-		FE349E182607398700D4257E /* ResponseType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResponseType.swift; sourceTree = "<group>"; };
 		FE62A5C226085EAA009C8DF8 /* RouteInfo.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = RouteInfo.xib; sourceTree = "<group>"; };
 		FE62A5C326085EAA009C8DF8 /* RouteInfo.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteInfo.swift; sourceTree = "<group>"; };
 		FE62A5CD2608623D009C8DF8 /* PlaceDetail.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = PlaceDetail.xib; sourceTree = "<group>"; };
 		FE62A5CE2608623D009C8DF8 /* PlaceDetail.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PlaceDetail.swift; sourceTree = "<group>"; };
 		FE62A5DA2608920C009C8DF8 /* ResType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ResType.swift; sourceTree = "<group>"; };
-		FE62A5DF26089277009C8DF8 /* RouteResDecoder.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = RouteResDecoder.swift; sourceTree = "<group>"; };
-		FE62A5E726089B70009C8DF8 /* PolylineDecoder.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PolylineDecoder.swift; sourceTree = "<group>"; };
 		FE6C40642609DA16004D1B83 /* MapboxDirections.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxDirections.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6C40662609DA2E004D1B83 /* MapboxCoreNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxCoreNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6C40682609DA46004D1B83 /* MapboxNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -206,7 +194,6 @@
 				FE19F5CF2606FEF6008F4FEF /* Assets.xcassets */,
 				FE19F5D12606FEF6008F4FEF /* LaunchScreen.storyboard */,
 				FE19F5D42606FEF6008F4FEF /* Info.plist */,
-				FE62A5E726089B70009C8DF8 /* PolylineDecoder.swift */,
 			);
 			path = "Baato iOS Example";
 			sourceTree = "<group>";
@@ -232,12 +219,7 @@
 		FE349E082607398700D4257E /* Model */ = {
 			isa = PBXGroup;
 			children = (
-				FE62A5DF26089277009C8DF8 /* RouteResDecoder.swift */,
 				FE62A5DA2608920C009C8DF8 /* ResType.swift */,
-				FE349E152607398700D4257E /* NavResponse.swift */,
-				FE349E162607398700D4257E /* SearchResult.swift */,
-				FE349E172607398700D4257E /* Place.swift */,
-				FE349E182607398700D4257E /* ResponseType.swift */,
 			);
 			path = Model;
 			sourceTree = "<group>";
@@ -505,15 +487,9 @@
 				FE01B1FC2607561A0007F556 /* SubtitleTableViewCell.swift in Sources */,
 				FE7D7DEB26119A2D00A726E4 /* Constant.swift in Sources */,
 				FE62A5DB2608920C009C8DF8 /* ResType.swift in Sources */,
-				FE62A5E826089B70009C8DF8 /* PolylineDecoder.swift in Sources */,
 				FE01B1F7260755460007F556 /* SearchTableViewController.swift in Sources */,
-				FE349E252607398700D4257E /* SearchResult.swift in Sources */,
-				FE62A5E026089277009C8DF8 /* RouteResDecoder.swift in Sources */,
-				FE349E272607398700D4257E /* ResponseType.swift in Sources */,
 				FE62A5D02608623D009C8DF8 /* PlaceDetail.swift in Sources */,
 				FE62A5C726085EAA009C8DF8 /* RouteInfo.swift in Sources */,
-				FE349E262607398700D4257E /* Place.swift in Sources */,
-				FE349E242607398700D4257E /* NavResponse.swift in Sources */,
 				FE19F5C72606FEF4008F4FEF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
