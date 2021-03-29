@@ -81,6 +81,8 @@ end
        
  All done, test the example app.
  
+ >Note: Please use ResType.swift i.e, https://github.com/Bhawak/Baato-iOS-Example/blob/master/Baato%20iOS%20Example/Model/ResType.swift for decoding mapbox type direction response.  
+ 
  ## Tips for integrating Baato to iOS app.
  
  ### 1. Adding baato map with mapbox
