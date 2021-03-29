@@ -10,7 +10,6 @@
 		9E921FE006D00C107D8CDB48 /* Pods_Baato_iOS_Example.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 690BC825CC3727ED693EEB00 /* Pods_Baato_iOS_Example.framework */; };
 		A6F040BC1169853462396760 /* Pods_Baato_iOS_Example_Baato_iOS_ExampleUITests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 899B7F8A78210CEA6C9E90CF /* Pods_Baato_iOS_Example_Baato_iOS_ExampleUITests.framework */; };
 		E486F02DBB3230082E2BA809 /* Pods_Baato_iOS_ExampleTests.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D5B81998F9F0558273A070E7 /* Pods_Baato_iOS_ExampleTests.framework */; };
-		FE01B1F2260741F40007F556 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE01B1F1260741F40007F556 /* Constant.swift */; };
 		FE01B1F7260755460007F556 /* SearchTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE01B1F6260755460007F556 /* SearchTableViewController.swift */; };
 		FE01B1FC2607561A0007F556 /* SubtitleTableViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE01B1FB2607561A0007F556 /* SubtitleTableViewCell.swift */; };
 		FE19F5C72606FEF4008F4FEF /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE19F5C62606FEF4008F4FEF /* AppDelegate.swift */; };
@@ -31,6 +30,7 @@
 		FE62A5DB2608920C009C8DF8 /* ResType.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5DA2608920C009C8DF8 /* ResType.swift */; };
 		FE62A5E026089277009C8DF8 /* RouteResDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5DF26089277009C8DF8 /* RouteResDecoder.swift */; };
 		FE62A5E826089B70009C8DF8 /* PolylineDecoder.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE62A5E726089B70009C8DF8 /* PolylineDecoder.swift */; };
+		FE7D7DEB26119A2D00A726E4 /* Constant.swift in Sources */ = {isa = PBXBuildFile; fileRef = FE7D7DEA26119A2D00A726E4 /* Constant.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -60,7 +60,6 @@
 		D5B81998F9F0558273A070E7 /* Pods_Baato_iOS_ExampleTests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_Baato_iOS_ExampleTests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		EDF37AD1787C98866D5F5EA4 /* Pods-Baato iOS Example-Baato iOS ExampleUITests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Baato iOS Example-Baato iOS ExampleUITests.release.xcconfig"; path = "Target Support Files/Pods-Baato iOS Example-Baato iOS ExampleUITests/Pods-Baato iOS Example-Baato iOS ExampleUITests.release.xcconfig"; sourceTree = "<group>"; };
 		EE5D4722E14E39C44B2AB2EB /* Pods-Baato iOS Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Baato iOS Example.debug.xcconfig"; path = "Target Support Files/Pods-Baato iOS Example/Pods-Baato iOS Example.debug.xcconfig"; sourceTree = "<group>"; };
-		FE01B1F1260741F40007F556 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 		FE01B1F6260755460007F556 /* SearchTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SearchTableViewController.swift; sourceTree = "<group>"; };
 		FE01B1FB2607561A0007F556 /* SubtitleTableViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SubtitleTableViewCell.swift; sourceTree = "<group>"; };
 		FE19F5C32606FEF4008F4FEF /* Baato iOS Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Baato iOS Example.app"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -102,6 +101,7 @@
 		FE6C40C92609F858004D1B83 /* MapboxMobileEvents.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxMobileEvents.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6C40CB2609F858004D1B83 /* MapboxNavigation.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxNavigation.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		FE6C40CD2609F858004D1B83 /* MapboxSpeech.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; path = MapboxSpeech.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		FE7D7DEA26119A2D00A726E4 /* Constant.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constant.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -195,8 +195,8 @@
 		FE19F5C52606FEF4008F4FEF /* Baato iOS Example */ = {
 			isa = PBXGroup;
 			children = (
+				FE7D7DE926119A2D00A726E4 /* API */,
 				FE62A5C126085E84009C8DF8 /* InfoWidget */,
-				FE349E2B2607399200D4257E /* API */,
 				FE349E082607398700D4257E /* Model */,
 				FE19F5C62606FEF4008F4FEF /* AppDelegate.swift */,
 				FE01B1F6260755460007F556 /* SearchTableViewController.swift */,
@@ -242,14 +242,6 @@
 			path = Model;
 			sourceTree = "<group>";
 		};
-		FE349E2B2607399200D4257E /* API */ = {
-			isa = PBXGroup;
-			children = (
-				FE01B1F1260741F40007F556 /* Constant.swift */,
-			);
-			path = API;
-			sourceTree = "<group>";
-		};
 		FE62A5C126085E84009C8DF8 /* InfoWidget */ = {
 			isa = PBXGroup;
 			children = (
@@ -259,6 +251,14 @@
 				FE62A5C226085EAA009C8DF8 /* RouteInfo.xib */,
 			);
 			path = InfoWidget;
+			sourceTree = "<group>";
+		};
+		FE7D7DE926119A2D00A726E4 /* API */ = {
+			isa = PBXGroup;
+			children = (
+				FE7D7DEA26119A2D00A726E4 /* Constant.swift */,
+			);
+			path = API;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -503,12 +503,12 @@
 			files = (
 				FE19F5CB2606FEF4008F4FEF /* ViewController.swift in Sources */,
 				FE01B1FC2607561A0007F556 /* SubtitleTableViewCell.swift in Sources */,
+				FE7D7DEB26119A2D00A726E4 /* Constant.swift in Sources */,
 				FE62A5DB2608920C009C8DF8 /* ResType.swift in Sources */,
 				FE62A5E826089B70009C8DF8 /* PolylineDecoder.swift in Sources */,
 				FE01B1F7260755460007F556 /* SearchTableViewController.swift in Sources */,
 				FE349E252607398700D4257E /* SearchResult.swift in Sources */,
 				FE62A5E026089277009C8DF8 /* RouteResDecoder.swift in Sources */,
-				FE01B1F2260741F40007F556 /* Constant.swift in Sources */,
 				FE349E272607398700D4257E /* ResponseType.swift in Sources */,
 				FE62A5D02608623D009C8DF8 /* PlaceDetail.swift in Sources */,
 				FE62A5C726085EAA009C8DF8 /* RouteInfo.swift in Sources */,
