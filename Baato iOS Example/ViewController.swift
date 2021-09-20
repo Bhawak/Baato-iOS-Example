@@ -109,7 +109,7 @@ class ViewController: UIViewController, MGLMapViewDelegate, NavigationMapViewDel
             apis.startLon = startPoint.coordinate.longitude
             apis.destLat = point.coordinate.latitude
             apis.destLon = point.coordinate.longitude
-            apis.navMode = BaatoSwift.NavigationMode.car
+            apis.navMode = BaatoSwift.NavigationMode.foot
             apis.navInstructions = true
             self.manager.dismissAndCallCompletionBlocks(withCategory: .none)
             waitSnack()

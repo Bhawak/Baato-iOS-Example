@@ -665,6 +665,8 @@ extension Maneuver {
 
 enum Profile: String, Codable {
     case driving = "driving"
+    case walking = "walking"
+    case cycling = "cycling"
 }
 
 // MARK: - VoiceInstruction
